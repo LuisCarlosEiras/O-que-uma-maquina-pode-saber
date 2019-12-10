@@ -1,0 +1,16 @@
+,saber,dados
+0,Nome desta máquina,LuisCarlos
+1,Endereço IP,192.168.1.11
+2,Latitude,-19.4683
+3,Longitude,-42.5367
+4,Data,09/12/2019
+5,Hora,15:24:31
+6,Sistema Operacional,b'Microsoft Windows 10 Pro'
+7,Versão,10.0.17763 17763
+8,CPU,Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz
+9,RAM(GB),7.944568634033203
+10,GPU,NVIDIA GeForce GTX 1050
+11,Temperatura CPU,"0    37.0
+Name: Temperatura CPU, dtype: float64"
+12,Temperatura GPU,"0    34.0
+Name: Temperatura GPU, dtype: float64"
